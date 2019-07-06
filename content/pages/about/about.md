@@ -1,6 +1,6 @@
 ---
 title: "About gatsby-starter-morning-dew"
-slug: about
+slug: gatsby-starter-morning-dew
 cover: ./gatsby-cover.png
 disqus: true
 type: page
@@ -11,7 +11,7 @@ type: page
 
 ## gatsby-starter-morning-dew
 
-Gatsby starter for creating a new blog!
+A gatsby-starter-morning-dew is a Gatsby theme/starter to build lightning-fast websites!
 
 [Demo website.](https://maxpou.github.io/gatsby-starter-morning-dew/)
 
