@@ -50,7 +50,7 @@ module.exports = {
         },
         {
           label: 'About',
-          url: '/gatsby-starter-morning-dew',
+          url: '/about',
         },
         {
           label: 'Installation',
