@@ -1,24 +1,14 @@
 ---
-title: "About gatsby-starter-morning-dew"
-slug: gatsby-starter-morning-dew
+title: "About"
+slug: about
 cover: ./gatsby-cover.png
-date: 2018-09-30
-language: en
 disqus: true
 type: page
 ---
 
-[![Build Status](https://travis-ci.org/maxpou/gatsby-starter-morning-dew.svg?branch=master)](https://travis-ci.org/maxpou/gatsby-starter-morning-dew) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Maintainability](https://api.codeclimate.com/v1/badges/e09f1ac1a5cdb2987a6f/maintainability)](https://codeclimate.com/github/maxpou/gatsby-starter-morning-dew/maintainability)
+> A gatsby-starter-morning-dew is a Gatsby theme/starter to build lightning-fast websites!
 
-
-## gatsby-starter-morning-dew
-
-Gatsby starter for creating a new blog!
-
-[Demo website.](https://maxpou.github.io/gatsby-starter-morning-dew/)
-
-![screenshot](https://i.imgur.com/aRTBbKs.jpg)
-
+This website is based on [gatsby-starter-morning-dew](https://github.com/maxpou/gatsby-starter-morning-dew), **the theme**... not the starter!
 
 ## Features
 

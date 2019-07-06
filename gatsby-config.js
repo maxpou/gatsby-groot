@@ -7,20 +7,22 @@ module.exports = {
     description: config.siteDescription,
     ...config,
   },
-  __experimentalThemes: ['gatsby-starter-morning-dew'],
+  // __experimentalThemes: ['gatsby-starter-morning-dew'],
   plugins: [
+    {
+      resolve: "gatsby-starter-morning-dew",
+      options: {},
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `gatsby-starter-morning-dew`,
+        short_name: `Groot`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#56b399`,
+        theme_color: `#56b399`,
         display: `minimal-ui`,
-        
-        // HERE:
-        icon: 'content/images/avatar.jpeg',
+        icon: 'content/images/groot.png',
       },
     },
   ],

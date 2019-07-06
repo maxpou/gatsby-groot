@@ -1,21 +1,18 @@
 module.exports = {
-  siteTitle: 'maxpou.fr',
-  siteDescription: "👋 Hey I'm Max",
+  siteTitle: 'Groot.io',
+  siteDescription: "Hello, I'm Groot!",
   authorName: 'Maxence Poutord',
   twitterUsername: '_maxpou',
-  authorAvatar: 'avatar.jpeg',
+  authorAvatar: 'groot.png',
   multilangPosts: true, // enable/disable flags in post lists
   authorDescription: `
-  For the last decade, Maxence Poutord has worked with a variety of web technologies. He is currently focused on front-end development.
-  On his day to day job, he is working as a senior front-end engineer at VSware. He is also a frequent tech speaker and a mentor.
-  As a new digital nomad, he is living where the WIFI and sun is 😎 <br>
-  Do you want to know more? <a href="/about">Read this!</a>
+  I am Groooooooooooooooooooooooooooooooot!
   `,
   siteUrl: 'https://www.maxpou.fr/',
   disqusSiteUrl: 'https://www.maxpou.fr/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/', // Note: it must *not* have a trailing slash.
-  siteCover: 'cover.jpg',
+  siteCover: 'groot-dancing.jpg',
   googleAnalyticsId: 'UA-67868977-1',
   background_color: '#ffffff',
   theme_color: '#222222',
@@ -23,18 +20,15 @@ module.exports = {
   icon: 'content/images/icon.jpeg',
   postsPerPage: 10,
   disqusShortname: 'maxpou',
+  headerLinksIcon: 'groot.png', // file in content/images
   headerLinks: [
-    {
-      label: '🏡',
-      url: '/',
-    },
     {
       label: 'Blog',
       url: '/',
     },
     {
       label: 'About',
-      url: '/gatsby-starter-morning-dew',
+      url: '/about',
     },
     {
       label: 'Installation',
@@ -56,7 +50,7 @@ module.exports = {
         },
         {
           label: 'About',
-          url: '/gatsby-starter-morning-dew',
+          url: '/about',
         },
         {
           label: 'Installation',
