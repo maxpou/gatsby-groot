@@ -11,5 +11,5 @@ action "Build" {
 action "Format" {
   needs = "Build"
   uses = "actions/npm@master"
-  args = "format"
+  args = "run format"
 }
