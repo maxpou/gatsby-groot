@@ -3,7 +3,6 @@ title: "About"
 slug: about
 cover: ./gatsby-cover.png
 disqus: true
-type: page
 ---
 
 > A gatsby-starter-morning-dew is a Gatsby theme/starter to build lightning-fast websites!

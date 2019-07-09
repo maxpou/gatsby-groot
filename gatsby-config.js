@@ -7,7 +7,6 @@ module.exports = {
     description: config.siteDescription,
     ...config,
   },
-  // __experimentalThemes: ['gatsby-starter-morning-dew'],
   plugins: [
     {
       resolve: "gatsby-starter-morning-dew",
