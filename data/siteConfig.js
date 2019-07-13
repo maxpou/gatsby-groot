@@ -20,6 +20,7 @@ module.exports = {
   icon: 'content/images/icon.jpeg',
   postsPerPage: 10,
   disqusShortname: 'maxpou',
+  headerTitle: 'Groot.io',
   headerLinksIcon: 'groot.png', // file in content/images
   headerLinks: [
     {
