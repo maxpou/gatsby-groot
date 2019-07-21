@@ -5445,10 +5445,10 @@ gatsby-source-filesystem@^2.1.2:
     valid-url "^1.0.9"
     xstate "^3.1.0"
 
-gatsby-starter-morning-dew@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/gatsby-starter-morning-dew/-/gatsby-starter-morning-dew-2.4.0.tgz#ba52e70a524a3d546c3b905ca68d4b35eccc0d00"
-  integrity sha512-zT4lWLp00xhvHWZ3cR9hGGlNUKoA7JgPAn2Nk/HKZAXIW2H5NIkI7NGtTP6uDHx2W7mkap5TuDnjh7Lf0RewiA==
+gatsby-starter-morning-dew@2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/gatsby-starter-morning-dew/-/gatsby-starter-morning-dew-2.4.1.tgz#3d78621674ae1dd6bd2ba94788148f5ed8688d7e"
+  integrity sha512-sDe9cfplYyzdlVuFwVLloP2ORwVNyOebXeRxCbI5q1I6U4wrYY1AyxY4yKexJf08DX5jxE9CvYwEXGQeFzrh2w==
   dependencies:
     "@mdx-js/mdx" "^1.0.23"
     "@mdx-js/react" "^1.0.23"
