@@ -2,8 +2,7 @@
 title: "Hello groot world"
 slug: hello-groot-world
 cover: ./cover.jpg
-imageTw: ./cover.jpg
-imageFb: ./cover.jpg
+imageShare: ./hello-groot-world-share.png
 date: 2018-11-13
 language: en
 tags:

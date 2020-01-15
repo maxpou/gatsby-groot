@@ -1,21 +1,23 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-groot",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A gatsby-starter-morning-dew demo",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Maxence Poutord <maxence.poutord@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.13.4",
-    "gatsby-plugin-manifest": "^2.2.1",
-    "gatsby-starter-morning-dew": "2.4.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "gatsby": "^2.15.0",
+    "gatsby-plugin-manifest": "^2.2.20",
+    "gatsby-starter-morning-dew": "3.0.3",
+    "react": "^16.10.0",
+    "react-dom": "^16.10.0"
   },
   "devDependencies": {
     "prettier": "^1.17.1"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "gatsby-theme",
+    "blog"
   ],
   "license": "MIT",
   "scripts": {
@@ -28,9 +30,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/maxpou/gatsby-groot"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/maxpou/gatsby-groot/issues"
   }
 }

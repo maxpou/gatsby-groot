@@ -8,7 +8,7 @@ module.exports = {
   authorDescription: `
   I am Groooooooooooooooooooooooooooooooot!
   `,
-  siteUrl: 'https://www.maxpou.fr/',
+  siteUrl: 'https://groot-morning-dew.netlify.com/',
   disqusSiteUrl: 'https://www.maxpou.fr/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/', // Note: it must *not* have a trailing slash.
